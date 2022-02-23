@@ -17,4 +17,4 @@ Skill apa saja yang diperlukan untuk menjadi Software Tester?
 - Automation Testing Tool
 
 ## Task
-Isi ember 5L dengan air 4L. Jadi, ember 5L sekarang telah terisi air 4L
+Isi ember 5L dengan air 4L. Jadi, ember 5L sekarang telah terisi air 4L atau isi ember dengan 5L air, kemudian buang 4L dan jadi 1L. Ember yang 3L pindahkan ke ember yang tadi berisi 1L. Hasilnya ember terisi 4L.
