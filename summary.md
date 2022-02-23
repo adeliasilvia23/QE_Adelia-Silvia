@@ -1,4 +1,4 @@
-# 1 Versioning Control With Git
+# 2 Versioning Control With Git
 
 ## Resume
 Dalam materi ini, mempelajari tentang:
