@@ -30,3 +30,4 @@ Komponen Test Case:
 
 ## Task
 [5_Testing Documentation.xlsx](https://github.com/adeliasilvia23/QE_Adelia-Silvia/files/8140185/5_Testing.Documentation.xlsx)
+[5_Testing Documentation](https://docs.google.com/spreadsheets/d/11spSIXTTr0QPTfh_LLjMAEqNjNDnTAgkEJU9RzdHjgY/edit#gid=0)
