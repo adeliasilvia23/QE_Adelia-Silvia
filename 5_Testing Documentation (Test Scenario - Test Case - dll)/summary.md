@@ -1,8 +1,9 @@
-# Testing Documentation (Test Scenario - Test Case
+# Testing Documentation (Test Scenario - Test Case)
 
 ## Resume
 1. Test Scenario 
 sebuah dokumen yang berisi langkah-langkah sistematis yang disusun oleh software tester supaya sistem yang dapat di test dapat memenuhi ketentuan yang diinginkan oleh user
+
 Test Case (Uji Kasus)
 Suatu rancangan atau rangkaian mengenai tindakan yang dilakukan oleh software tester untuk melakukan verifikasi terhadap fitur atau fungsi tertentu dari sebuah perangkat lunak. Pembuatan Test Case bertujuan untuk memmastikan bahwa suatu sistem dapat dijalankan dengan baik serta mampu memberikan respon ketika terdapat suatu masukan yang tidak valid.
 Komponen Test Case:
