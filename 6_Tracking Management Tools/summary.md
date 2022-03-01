@@ -23,3 +23,4 @@ Deliver story yang siap memasuki tahap testing oleh para quality engineer, sedan
 Jenis issue untuk melakukan pengelompokkan Task
 6. Apa yang dilakukan saat menggunakan tools jira, jika menemukan bugs pada fitur yang sudah dilakukan testing?
 Dikembalikan ke tahap Need Fix, yaitu hasil proses testing yang tidak lolos kriteria oleh team development, kemudian setelah melakukan Need Fix lanjut ke tahap In Progress, kemudian Finish, Deliver, Need Fix kemudian Done
+Buatlah simulasi terjadinya Bugs pada suatu feature !
