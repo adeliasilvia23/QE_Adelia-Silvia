@@ -15,3 +15,6 @@
 - Qtest
 
 ## Task
+![Milestone 1](https://user-images.githubusercontent.com/99981322/156606031-2790404c-7bc1-459f-acbc-8aa7522b5b36.png)
+![Milestone 2](https://user-images.githubusercontent.com/99981322/156606065-65a437ea-6873-47f4-a3a9-6bb05856dda9.png)
+![Milestone 3](https://user-images.githubusercontent.com/99981322/156606096-557a65e7-4139-4a81-bb86-c873b0b768e4.png)
