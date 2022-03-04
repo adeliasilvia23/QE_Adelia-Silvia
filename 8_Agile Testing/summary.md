@@ -31,8 +31,8 @@ Pada dasarnya SDLC menggambarkan alur terstruktur dalam fase siklus software dan
 - Maintenace: Tahap ini seharusnya aplikasi sudah harus selesai 
 
 2. Tantangan ketika menerapkan agile testing manifesto
-1. Testing is an activity not a phase
-2. Prevent bugs rather than finding bugs: Lebih fokus pada munculnya bugs daripada menemukan bugs. Ada beberapa faktor kemunculan bugs yaitu requirement yang kurang detail atau lengkap
-3. Don't be a checker , be a tester: sebagai seorang tester tidaklah cukup melakukan adanya testing tanpa adanya improvment atau masukan terhadap apa yang di test.
-4. Don't try to break the system, instead help build the best possible system: Seorang QE akan melakukan tetsing mengenai positif dan negatif test. 
-5. The whole team is responsible for quality , not just the tester: Tanggungjawab team adalah kualitas dasar prinsip agile
+- Testing is an activity not a phase
+- Prevent bugs rather than finding bugs: Lebih fokus pada munculnya bugs daripada menemukan bugs. Ada beberapa faktor kemunculan bugs yaitu requirement yang kurang detail atau lengkap
+- Don't be a checker , be a tester: sebagai seorang tester tidaklah cukup melakukan adanya testing tanpa adanya improvment atau masukan terhadap apa yang di test.
+- Don't try to break the system, instead help build the best possible system: Seorang QE akan melakukan tetsing mengenai positif dan negatif test. 
+- The whole team is responsible for quality , not just the tester: Tanggungjawab team adalah kualitas dasar prinsip agile
