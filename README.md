@@ -1,2 +1,2 @@
 # QE_Adelia-Silvia
-Project Kampus Merdeka di Alterra Academy
+Tugas Kampus Merdeka selama di Alterra Academy
