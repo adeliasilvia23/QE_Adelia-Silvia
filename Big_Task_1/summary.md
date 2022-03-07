@@ -7,3 +7,7 @@ https://adeliasilvia43.atlassian.net/jira/software/projects/TQC/boards/2
 ![Jira 2](https://user-images.githubusercontent.com/99981322/156930682-024c56c2-6cf5-4e9a-b698-175253e1707e.png)
 
 ## TestRail
+https://adeliasilvia.testrail.io/index.php?/projects/overview/2
+![Testrail 1](https://user-images.githubusercontent.com/99981322/156962709-6f2bad1a-904d-4989-9e33-07844084ce56.png)
+![Testrail 2](https://user-images.githubusercontent.com/99981322/156962753-6c56013e-1abc-42a3-b6cc-1a7a70b06e61.png)
+![Testrail 3](https://user-images.githubusercontent.com/99981322/156962764-66ccd092-339e-4902-92ca-14525a2db696.png)
