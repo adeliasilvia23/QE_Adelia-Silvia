@@ -30,3 +30,16 @@ Beberapa contoh Basic Command:
 - echo : memindahkan beberapa data kedalam satu file
 - top : menampilkan proses dari user tersebut
 - clear : untuk menghapus seluruh command line
+- ![9](https://user-images.githubusercontent.com/99981322/157218469-ffd90713-64be-4eef-aca7-34d65bc5e7d0.png)
+![Screenshoot 1](https://user-images.githubusercontent.com/99981322/157218574-be5d1d7a-cc34-4268-b0a3-d681349615dc.png)
+![2](https://user-images.githubusercontent.com/99981322/157218611-927a5bb6-2866-491c-ac63-bd72ef4364d9.png)
+![3](https://user-images.githubusercontent.com/99981322/157218646-eea6f46d-68c4-4cea-b46a-46f3545e54f2.png)
+![4](https://user-images.githubusercontent.com/99981322/157218771-7886ed21-64e0-4991-aae8-6049fe57489e.png)
+![5](https://user-images.githubusercontent.com/99981322/157218786-c453c59b-ac1c-4173-abc0-6fe7d68fab5b.png)
+![6](https://user-images.githubusercontent.com/99981322/157218797-81769a7e-c485-4f24-b70a-00d2a75b6393.png)
+![7](https://user-images.githubusercontent.com/99981322/157218837-a13e0509-714c-46fc-a4a7-852d2faa6472.png)
+![8](https://user-images.githubusercontent.com/99981322/157218882-2740f93f-948f-498c-81ce-f86aa3db3ef9.png)
+![10](https://user-images.githubusercontent.com/99981322/157218920-c63a9a6c-ff2e-4b08-8c9f-b6d84ec92e37.png)
+![11](https://user-images.githubusercontent.com/99981322/157218944-f1938d46-6219-4767-83c6-bc02280c6df2.png)
+![12](https://user-images.githubusercontent.com/99981322/157218969-542dfc35-397a-4425-80fc-99f9a7cdb294.png)
+![Shell Script](https://user-images.githubusercontent.com/99981322/157219165-7a2a89fd-8cc1-4d36-a72e-3b2bc676787d.png)
