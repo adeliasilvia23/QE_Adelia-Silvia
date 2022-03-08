@@ -12,3 +12,21 @@ Beberapa contoh Basic Command:
 - cal: Memiliki fungsi untuk menampilkan kalender
 - date: Memiliki fungsi untuk zona waktu yang tertera di ls kita
 4. Shell Script adalah sebuah bahasa pemrogaman yang disusun berdasarkan command2 shell dan juga shell merupakan program yang berfungsi sebagai jembatan antar user dan kernel. Keuntungan menggunakan shell script di dunia testing yaitu ketika harus mengeksekusi sebuah command berturut2. Dengan adanya shell cript tidak perlu menunggu lagi dan cukup menuliskan apa saja yang akan dilakukan sesuai urutan dan kemudian dieksekusi dengan satu fix saja.
+
+# Task
+- Cal : untuk menampilkan kalender
+- Date : untuk menampilkan tanggal dan zona waktu yang tertera pada OS kita
+- touch : command linux yang memperbolehkan membuat file yang kosong melalui garis
+- cat : membuat daftar konten atai isi file pada standar support
+- cp : menyalin file dari direktori ke direktori yang berbeda
+- mv : untuk mengganti atau mengubah nama file argumen yang ada di mv serupa dengan mv yang ada di cp
+- rm : menghapus direktori beserta isinya
+- mkdir : membuat folder atau direktori baru
+- rmdir : menghapus direktori tetapi hanya boleh menghapus dengan direkotori yang kosong
+- cd : menjelahi file dari direktori
+- pwd : untuk mencari paht atau direktori yang digunakan saat ini
+- find : untuk mencari file yang berlokasi dalam direktori yang diberikan
+- history : mengecek command yang sudah ditambahkan sebelumnya
+- echo : memindahkan beberapa data kedalam satu file
+- top : menampilkan proses dari user tersebut
+- clear : untuk menghapus seluruh command line
