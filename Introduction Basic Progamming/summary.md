@@ -17,3 +17,6 @@ Bisa dibilang bahasa java merupakan bahasa pemrogaman yang dapat membuat bentuk 
 3. Tools yang dipakai oleh Java progamming:
 - JDK (Java Development Kit) merupakan komponen inti dari java, JDK adalah salah satu tool yang digunakan oleh developer untuk proses developing dan monitoring. 
 - IDE adalah tools yang membantu developer untuk membuat aplikasi, didalam IDE terdapat shortcout editor. IDE yang popular saat ini adalah intellij
+
+# Task
+![luas segitiga](https://user-images.githubusercontent.com/99981322/157646355-b9c0d711-5986-47e0-868d-481648ae4f5c.png)
