@@ -20,3 +20,5 @@ Strutur tersebut merupakan data perulangan terhadap masing-masing data yang disi
 ![Exp](https://user-images.githubusercontent.com/99981322/159163459-b5e5f4c3-4944-4833-b070-008557235868.png)
 ![Muncul Sekali 2](https://user-images.githubusercontent.com/99981322/159163490-d9861d75-ab45-4db5-88af-a5464548c5c6.png)
 ![Muncul Sekali](https://user-images.githubusercontent.com/99981322/159163497-012415eb-94a5-4155-8862-85e787734325.png)
+![Pair Sum 2](https://user-images.githubusercontent.com/99981322/159163587-81ed671c-5b67-42fc-89a8-710d33423487.png)
+![Pair Sum](https://user-images.githubusercontent.com/99981322/159163589-975de7c0-1478-4d1e-b12e-bbc684dcd622.png)
