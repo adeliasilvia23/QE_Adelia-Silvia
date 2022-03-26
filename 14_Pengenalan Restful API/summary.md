@@ -20,3 +20,13 @@ HTTP Response Code:
 - 401 (Unauthorized)
 - 405 (Method Not Allowed)
 - 500 (Internal) ada kesalahan di server
+
+## Task
+![Screenshot (172)](https://user-images.githubusercontent.com/99981322/160230678-dc3bca82-7a39-4010-a893-0df1fc0f51ea.png)
+![Screenshot (173)](https://user-images.githubusercontent.com/99981322/160230680-bc8c4081-d02c-4daa-94d8-422c29ebf564.png)
+![Screenshot (174)](https://user-images.githubusercontent.com/99981322/160230681-b39d6566-2ec4-4de9-a686-d957c49d94ef.png)
+![Screenshot (175)](https://user-images.githubusercontent.com/99981322/160230682-bfca0d45-c618-4362-99cc-4d44e68302f4.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/99981322/160230683-dabef209-390f-4f20-b758-5c3e2c0a6e56.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/99981322/160230685-dfd349a7-2534-4a81-8148-8f616ee2ec3c.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/99981322/160230686-4487519b-e692-4e82-895d-ec57f6dca1aa.png)
+![Screenshot (179)](https://user-images.githubusercontent.com/99981322/160230687-2bf799d4-c744-4a1f-a337-adfe8c166181.png)
