@@ -19,3 +19,6 @@ Beberapa Testing Process:
 - Planning, design and development: Selama fase ini kita membuat strategi dan rencana dalam automation yang berisi tools automation yang dipilih 
 - Test Execution: Script yang telah dibuat akan dijalankan pada fase ini, script membutuhkan input test data sebelum di set untuk dijalankan  
 - Maintenance: Fase yang dilakukan untuk menguji apakah functionalitas baru yang ditambahkan ke software berfungsi dengan baik atau tidak. Tahap ini dilakukan ketika script auntomation yang baru ditambahkan dan perlu direview untuk meningkatkan efektivitas automation di setiap siklus yang berurutan   
+## Task
+![Screenshot (187)](https://user-images.githubusercontent.com/99981322/161462086-0345707d-be6b-4a35-a736-6e4af8df47f7.png)
+Respon tercepat Get, Respon lambat Update dan Post dan paling lambat adalah Delete
