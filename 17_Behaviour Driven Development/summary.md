@@ -6,4 +6,5 @@ Format BDD:
 - Menulis scenario dalam sistem file menggunakan, As a (X), I want (Y), So that (Z)
 - Scenario: Menjelaskan apa saja yang dibutuhkan dalam situasi tertentu
 - 3 kunci utama dalam scenario BDD: Given, When, Then
+
 Cucumber adalah sebuah tools yang mendukung BDD
