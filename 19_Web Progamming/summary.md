@@ -3,7 +3,7 @@ Web Development dibagi menjadi 2:
 - Backend: Bagian website yang tidak dapat berinteraksi langsung atau dilihat oleh user seperti database
 - Frontend: Dapat dilihat oleh user. Dibangun oleh komponen utama:
 1. html: Berfungsi sebagai struktur yang akan membangun website yang kita buat
-- HTML Editors: Notepad, visual studi code, dll
+- HTML Editors: Notepad, visual studio code, dll
 
 Kegunaan HTML:
 - Membuat struktur dari halaman website
