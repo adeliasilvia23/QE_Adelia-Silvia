@@ -1,4 +1,4 @@
-##Resume
+## Resume
 Web Development dibagi menjadi 2:
 - Backend: Bagian website yang tidak dapat berinteraksi langsung atau dilihat oleh user seperti database
 - Frontend: Dapat dilihat oleh user. Dibangun oleh komponen utama:
