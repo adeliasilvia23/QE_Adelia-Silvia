@@ -6,6 +6,7 @@ Fundamental API (Test Process):
 - Definisikan API yang akan di test
 - Input data yang akan di test baik di header maupun di body requestnya
 - Send request ke server dan lakukan validasi terhadap respon yang diberikan
+
 The Practical Test Pyramyd
 - UNIT: Pengujian perangkat lunak yang menguji setiap unit atau komponen dari sebuah perangkat lunak dilakukan saat masa pengembangan atau pada saat menuliskan kode program dari sebuah perangkat lunak oleh developer, yang diuji adalah unit2 dari perangkat lunak yang berupa function, method, prosedur, moduls dan objek
 - Component: 
