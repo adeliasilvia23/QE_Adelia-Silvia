@@ -7,10 +7,12 @@ Serenity BDD merupakan library open source yang membantu tester dalam menulis au
 - Requirements
 - Test
 - Report
+
 Define requirements:
 - Harus membuat storynya dahulu
 
 BDD with Jbehave
+
 ada 5 langkah jbehave untuk automation:
 1. Write Story (menulis scenario) untuk mempermudah QE mereview story. Bahasa yang digunakan adalah bahasa Gherkin yang hanya memiliki keyword Given untuk initial condition, When untuk aksi yang akan dilakukan dan Then untuk digunakan validasi
 2. Configure Stories untuk menentukan stories mana yang akan dijalankan dan juga format output yang digunakan jika hanya menggunakan jbehave
