@@ -4,6 +4,10 @@ Perfomance Test merupakan teknik non functional testing untuk menentukan paramet
 - bukan merupakan funtional test
 - bisa berbagai macam bentuk untuk memahami reliability, stability dan availability pada enviromentnya
 
+Metode Performance Test:
+- Membuat Test Plan
+- Menentukan Metode Test
+
 Type Performance Test:
 1. Load Testing adalah pengujian paling sederhana yang dilakukan untuk memahami perilaku sistem dalam keadaan beban tertentu. Hasilnya digunakan untuk mengukur kepentingan bisnis saat transaksi yang kritis dengan memonitor dampak terhadap database, application server, dll.
 2. Stres Testing adalah dilakukan untuk mengamati kemampuan dan kestabilan sistem pada saat kondisi ekstrem. Dilakukan bertahap menuju load normal, puncak dan melebihinya, lalu turun untuk melihat proces recovery.
