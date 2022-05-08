@@ -10,3 +10,7 @@ Komponen2 di JMeter:
 - Thread Groups: Kumpulan thread yang menjalankan skenario yang sama
 - Samplers: Sebutan untuk request yang akan dikirim ke server
 - Config Elements: Elemen yang digunakan untuk konfigurasi atau modifikasi sampler request yang dikirim ke server
+- Listener: Merekam apapun yang terjadi yang dihasilkan oleh test
+- Timers: Fitur ini akan jalan duluan sebelum semua fitur yang lain berjalan
+- Assertions: Seperti assert pada API/Web/Testing merupakan kriteria tambahan apakah pass/tidak
+- Pre-post Processors: Fitur yang memproses response data sebelum/sesudah test
